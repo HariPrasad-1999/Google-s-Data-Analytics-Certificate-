@@ -29,9 +29,7 @@ Here is a break down of what this team did, step by step.
 <p>It all started with solid preparation. The group built a timeline of three months and decided how they wanted to relay their progress to interested parties. Also during this step, the analysts identified what data they needed to achieve the successful result they identified in the previous step - in this case, the analysts chose to gather the data from an online survey of new employees. These were the things they did to prepare:</p>
 
 <ul>
-<li>What do you think new employees need to learn to be successful in their first year on the job? </li>
-<li>Have you gathered data from new employees before? If so, may we have access to the historical data?</li>
-<li>Do you believe managers with higher retention rates offer new employees something extra or unique?</li>
-<li>What do you suspect is a leading cause of dissatisfaction among new employees?</li>
-<li>By what percentage would you like employee retention to increase in the next fiscal year?</li>
+<li>They developed specific questions to ask about employee satisfaction with different business processes, such as hiring and onboarding, and their overall compensation. </li>
+<li>They established rules for who would have access to the data collected - in this case, anyone outside the group wouldn't have access to the raw data, but could view summarized or aggregated data. For example, an individual's compensation wouldn't be available, but salary ranges for groups of individuals would be viewable. </li>
+<li>They finalized what specific information would be gathered, and how best to present the data visually. The analysts brainstormed possible project- and data-related issues and how to avoid them. </li>
 </ul>
