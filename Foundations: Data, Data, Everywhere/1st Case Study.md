@@ -60,3 +60,22 @@ Here is a break down of what this team did, step by step.
 <li>They asked the managers to personally deliver the results to their teams. </li>
 </ul>  
 <p>This process gave managers an opportunity to communicate the results with the right context. As a result, they could have productive team conversations about next steps to improve employee engagement. </p>  
+
+
+<h2>ACT</h2>
+<p>The last stage of the process for the team of analysts was to work with leaders within their company and decide how best to implement changes and take actions based on the findings. These were their recommendations: </p>
+<ul>
+<li>Standardize the hiring and evaluation process for employees based on the most efficient and transparent practices.</li>
+<li>Conduct the same survey annually and compare results with those from the previous year.</li>
+</ul>
+<p>A year later, the same survey was distributed to employees. Analysts anticipated that a comparison between the two sets of results would indicate that the action plan worked. Turns out, the changes improved the retention rate for new employees and the actions taken by leaders were successful! </p>
+
+
+<h2>Is people analytics right for you?</h2>
+<p>One of the many things that makes data analytics so exciting is that the problems are always different, the solutions need creativity, and the impact on others can be great — even life-changing or life-saving. As a data analyst, you can be part of these efforts. Maybe you’re even inspired to learn more about the field of people analytics. If so, consider learning more about this field and adding that research to your data analytics journal. You never know: One day soon, you could be helping a company create an amazing work environment for you and your colleagues!</p>
+
+<h2>Additional Resource</h2>
+<p>To learn more about some recent applications of data analytics in the business world, check out the article <a href="https://online.hbs.edu/blog/post/business-analytics-examples">“4 Examples of Business Analytics in Action”</a> from Harvard Business School.  The article reveals how corporations use data insights to optimize their decision-making process. Please note that the first example in the article contains a minor error in the second paragraph, but the example is still a valid one. </p>
+
+<h3>Correction to article in bold below:</h3> 
+<p>Microsoft’s Workplace Analytics team hypothesized that moving the 1,200-person group from five buildings to four could improve collaboration by increasing the number of employees per building and by reducing the distance that staff needed to travel for meetings. </p>
