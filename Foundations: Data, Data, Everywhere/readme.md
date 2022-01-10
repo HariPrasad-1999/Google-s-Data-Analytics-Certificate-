@@ -1,6 +1,6 @@
-Learning Log: Think about data in daily life
+<h1>Learning Log: Think about data in daily life</h1>
 
-Instructions
+<h4>Instructions</h4>
 
 You can use this document as a template for the learning log activity: Think about data in daily life. Type your answers in this document, and save it on your computer or Google Drive. 
 
